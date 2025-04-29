@@ -176,4 +176,4 @@ class PlaceOrder(private val orderRepo: OrderRepository) {
 
 > “Architecture is about intent. MVC is about simplicity. Clean Architecture is about longevity.”
 
-Document reference: (Understanding MVC and Clean Architecture in Backend Development)[https://www.academia.edu/129081115/Understanding_MVC_and_Clean_Architecture_in_Backend_Development]
+Document reference: [Understanding MVC and Clean Architecture in Backend Development](https://www.academia.edu/129081115/Understanding_MVC_and_Clean_Architecture_in_Backend_Development)
