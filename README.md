@@ -1,6 +1,3 @@
-Here's a well-structured `README.md` based on the content you provided:
-
-```markdown
 # Introduction to MVC and Clean Architecture
 
 Modern backend development relies on structured design patterns to ensure **maintainability**, **scalability**, and **testability**. Two prominent architectural approaches are **Model-View-Controller (MVC)** and **Clean Architecture**.
@@ -180,3 +177,4 @@ class PlaceOrder(private val orderRepo: OrderRepository) {
 > “Architecture is about intent. MVC is about simplicity. Clean Architecture is about longevity.”
 ```
 Document reference: https://www.academia.edu/129081115/Understanding_MVC_and_Clean_Architecture_in_Backend_Development
+```
